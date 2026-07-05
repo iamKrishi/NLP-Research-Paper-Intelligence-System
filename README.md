@@ -54,6 +54,10 @@ Keywords
 - Citation Generation
 - Voice-based Search
 
+## Sample Output
+   ![Search Results](images/sample_output1.png)
+   ![Summary Example](images/sample_output2.png)
+   ![Summary Example](images/sample_output3.png)
 
 ## Author
 Krishi Mohture |
