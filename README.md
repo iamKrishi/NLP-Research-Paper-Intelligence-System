@@ -56,6 +56,6 @@ Keywords
 
 
 ## Author
-Krishi Mohture
-Information Technology Student
+Krishi Mohture|
+Information Technology Student|
 Walchand College of Engineering, Sangli
