@@ -24,12 +24,14 @@ The NLP Research Paper Intelligence System is an AI-powered application that hel
 - Pandas
 - NumPy
 
-
+## Installation
 git clone <repository link>
-cd NLP-Research-Paper-Intelligence-System
-pip install -r requirements.txt
-Run the notebook in Google Colab or Jupyter Notebook.  
 
+cd NLP-Research-Paper-Intelligence-System
+
+pip install -r requirements.txt
+
+Run the notebook in Google Colab or Jupyter Notebook.
 
 Open the notebook
 Run all cells
